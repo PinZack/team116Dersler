@@ -3,6 +3,8 @@ package day22_stringBuilder_accessModifier;
 public class C05_accessModifier {
 
 
+
+
     private String privateStr;
     String defaultStr;
     protected String protectedStr;
